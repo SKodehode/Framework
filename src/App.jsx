@@ -1,5 +1,6 @@
 import React from "react";
 import Layout from "./components/layout/layout";
+import "./index.css";
 import "./styling/main.css"
 import "./styling/card-container.css"
 import "./styling/hero.css"

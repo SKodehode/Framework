@@ -173,5 +173,3 @@ export const cardArray = [
         description: "Teeing off at a scenic golf course, enjoying the calm and precision of the sport.",
         image: ".././assets/images/sports/sports (4).jpg",
     }]
-
-    console.log(cardArray)

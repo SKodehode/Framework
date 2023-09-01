@@ -1,4 +1,4 @@
-import "./card.css"
+import "../styling/card.css"
 
 export function Card() {
     return (

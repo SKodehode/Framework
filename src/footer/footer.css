@@ -1,0 +1,6 @@
+/* Stylings for the footer element. */
+footer{
+    min-height: 20rem;
+    width: 100%;
+    background-color: red;
+}

@@ -1,0 +1,7 @@
+/* Stylings for the navbar element. */
+nav{
+    min-height: 4rem;
+    width: 100%;
+    background-color: blue;
+    display: none;
+}

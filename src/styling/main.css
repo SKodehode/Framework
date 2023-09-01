@@ -1,11 +1,10 @@
-/* Stylings for the main element of the page. */
 main{
     min-height: 100vh;
     width: 100%;
+    padding: 0rem 4rem 3rem 4rem;
     display: flex;
     flex-direction: column;
     justify-content: start;
     align-items: center;    
     text-align: center;
-    padding: 0rem 4rem 3rem 4rem;
 }

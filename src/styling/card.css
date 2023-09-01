@@ -1,6 +1,35 @@
 .card{
-    height: 18rem;
-    width: 15rem;
-    border: 0.1rem solid black;
+    max-height: 40rem;
+    max-width: 20rem;
+    height: 100%;
+    width: 100%;
+    border: 0.1rem solid grey;
     border-radius: 0.5rem;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.card-image{
+    max-height: 15rem;
+    max-width: 20rem;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 0.5rem 0.5rem 0rem 0rem;
+    overflow: hidden;
+}
+
+.card-timestamp{
+    font-size: 0.6rem;
+    color: grey;
+}
+
+.card-title{
+    font-size: 1.2rem;
+    padding: 0.5rem 0.5rem 0.25rem 0.5rem;
+}
+
+.card-description{
+    font-size: 0.8rem;
+    padding: 0.25rem 2rem 2rem 2rem;
 }

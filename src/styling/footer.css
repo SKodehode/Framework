@@ -1,6 +1,6 @@
 /* Stylings for the footer element. */
 footer{
-    min-height: 20rem;
+    min-height: 15rem;
     width: 100%;
-    background-color: red;
+    background-color: transparent;
 }

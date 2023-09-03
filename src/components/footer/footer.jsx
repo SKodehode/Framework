@@ -4,7 +4,7 @@ import "../../styling/footer.css"
 function Footer() {
   return (
     <footer>
-      <h1>By StianK-H04</h1>
+      <h3>By StianK-H04</h3>
     </footer>
   );
 }
